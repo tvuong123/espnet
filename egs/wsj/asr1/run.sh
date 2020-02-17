@@ -41,7 +41,7 @@ n_average=10 # use 1 for RNN models
 recog_model=model.acc.best # set a model to be used for decoding: 'model.acc.best' or 'model.loss.best'
 
 # data
-wsj0=/export/corpora5/LDC/LDC93S6B
+wsj0=/home/tvuong/Research/kaldi/egs/wsj/s5/data
 wsj1=/export/corpora5/LDC/LDC94S13B
 
 # exp tag
